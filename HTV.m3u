@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml
-#EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv1.jpg",HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
-#EXTINF:-1 tvg-id="htv2hd" group-title="Kênh HTV" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV2 - Vie
+#EXTINF:-1 tvg-id="htv2hd" group-title="Kênh HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv2hd.jpg",HTV2 - Vie
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv3.png",HTV3
 https://vc.101vn.com/htv/htvcmb.php?id=2535
-#EXTINF:-1 tvg-id="htvkey" group-title="Kênh HTV" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV Key
+#EXTINF:-1 tvg-id="htvkey" group-title="Kênh HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htvkey.jpg",HTV Key
 https://vc.101vn.com/htv/htvcmb.php?id=2528
-#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv7hd.jpg",HTV7 HD
 https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="Kênh HTV" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="Kênh HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv9hd.jpg",HTV9 HD
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="Kênh HTV" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV Thể Thao HD
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="Kênh HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htvthethaohd.jpg",HTV Thể Thao HD
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
