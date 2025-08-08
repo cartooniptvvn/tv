@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml
-#EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://xemtvtructuyen.com/wp-content/uploads/2024/05/htv1hd.jpg",HTV1
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTQ2NDU5OTgsInVyaSI6IlwvaHR2Y1wvaHR2MS43MjBwLm5pbWJsZS5hZG0udG1zIiwiaXAiOiIifQ.tqYyyFf0OeGZcIKOka2d9JmNEouxeqHfsM_J-FFf1rA-/htvc/htv1.720p.nimble.adm.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="Kênh HTV" tvg-logo="https://xemtvtructuyen.com/wp-content/uploads/2024/05/htv2hd.jpg",HTV2 - Vie
+#EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/07/16/641332-505482-HTV1.png",HTV1
+https://vc.101vn.com/htv/htvcmb.php?id=2631
+#EXTINF:-1 tvg-id="htv2hd" group-title="Kênh HTV" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/171512-HTV2HD.png",HTV2 - Vie
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" tvg-logo="https://xemtvtructuyen.com/wp-content/uploads/2024/05/htv3hd.jpg",HTV3
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTQ2NDYwMjMsInVyaSI6IlwvaHR2Y1wvaHR2My43MjBwLm5pbWJsZS5hZG0udG1zIiwiaXAiOiIifQ.21IyrrH8EzealT_6XdrhzkxXMphtcffIF4w4TB06PQw-/htvc/htv3.720p.nimble.adm.tms/playlist.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/963817-HTV3.png",HTV3
+https://vc.101vn.com/htv/htvcmb.php?id=2535
 #EXTINF:-1 tvg-id="htvkey" group-title="Kênh HTV" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/08/14/359584-htv-key-web.png",HTV Key
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTQ2NDU5MTgsInVyaSI6IlwvaHR2Y1wvaHR2NC43MjBwLm5pbWJsZS5hZG0udG1zIiwiaXAiOiIifQ.TWASofMwCsJEKhVBw8eHS55J0iNtO62ySElEIKUnTWg-/htvc/htv4.720p.nimble.adm.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://xemtvtructuyen.com/wp-content/uploads/2024/05/htv7hd.jpg",HTV7 HD
+https://vc.101vn.com/htv/htvcmb.php?id=2528
+#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/07/16/514141-665121-HTV7HD.png",HTV7 HD
 https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="Kênh HTV" tvg-logo="https://xemtvtructuyen.com/wp-content/uploads/2024/05/htv9hd.jpg",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="Kênh HTV" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/07/16/628143-665121-HTV9HD.png",HTV9 HD
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="Kênh HTV" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/07/16/546898-111250-HTVTT.png",HTV Thể Thao HD
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
