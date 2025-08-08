@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,HTV1 
+https://vc.101vn.com/htv/htvcmb.php?id=2631
+#EXTINF:-1,HTV2 - Vie
+https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:-1,HTV3
+https://vc.101vn.com/htv/htvcmb.php?id=2535
+#EXTINF:-1,HTV Key
+https://vc.101vn.com/htv/htvcmb.php?id=2528
+#EXTINF:-1,HTVC Ca Nhạc
+https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+#EXTINF:-1,HTVC Du Lịch Và Cuộc Sống
+https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:-1,HTVC Gia Đình
+https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:-1,HTVC Phim
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:-1,HTVC Phụ Nũ
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:-1,HTVC Thuần Việt
+https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:-1,HTVC +
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+#EXTINF:-1,HTV7
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
+#EXTINF:-1,HTV9
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HTV Thể Thao
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
