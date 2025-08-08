@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,HTV1 
+https://vc.101vn.com/htv/htvcmb.php?id=2631
+#EXTINF:-1,HTV2 - Vie
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HTV3
+https://vc.101vn.com/htv/htvcmb.php?id=2535
+#EXTINF:-1,HTV Key
+https://vc.101vn.com/htv/htvcmb.php?id=2528
+#EXTINF:-1,HTV7
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
+#EXTINF:-1,HTV9
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HTV Thể Thao
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
