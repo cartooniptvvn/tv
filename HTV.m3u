@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml
 #EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 tvg-id="htv2hd" group-title="Kênh HTV" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV2 - Vie
