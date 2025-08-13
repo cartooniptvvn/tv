@@ -1,42 +1,29 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/20/ahd08q6m_htv14dad123405c71a3783bc2755ee1e1438_296_168.png", HTV1
 https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/08/902w5z39_htv2_tet487131c201923c178c70991c3326a785_296_168.png", HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/2yoph2z9_htv3b40c1feb3e93079cf4d13c6e8f58c0e2_296_168.png", HTV3
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/f0u5dp2g_htv-keyd63a66192fb894094e9a809afd54aaf6_296_168.png", HTV Key
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/08/dm80ed99_htv7-tet8e31aaacb4c8058cc83f6bb208fe23f1_296_168.png", HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/11/wtqtxq6b_htv91c31ae9b841d2d5d04a12c441482b9bfb_296_168.png", HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/20/6740t6rc_htv-the-thao-new3e316c51be4893baa9e101db29bed0d4_296_168.png", HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
- 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/kzkbf3xc_htvcthuanviethd_296_168.png", HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/1cgsej7h_htvc-gia-dinh_296_168.png", HTVC Gia đình
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/962h3dtj_htvcphunu_296_168.png", HTVC Phụ nữ
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4syej015_htvcdulich_296_168.png", HTVC Du lịch Cuộc sống
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/bp6rq37b_htvccanhac_296_168.png", HTVC Ca nhạc
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/7mskjha6_htvcphim_296_168.png", HTVC Phim
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="htvcplus" group-title="HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.png", HTVC Plus
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
