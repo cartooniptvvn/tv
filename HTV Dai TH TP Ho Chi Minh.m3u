@@ -3,15 +3,15 @@
 https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/08/902w5z39_htv2_tet487131c201923c178c70991c3326a785_296_168.png", HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/2yoph2z9_htv3b40c1feb3e93079cf4d13c6e8f58c0e2_296_168.png", HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/963817-HTV3.png", HTV3
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/f0u5dp2g_htv-keyd63a66192fb894094e9a809afd54aaf6_296_168.png", HTV Key
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/08/14/359584-htv-key-web.png", HTV Key
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/08/dm80ed99_htv7-tet8e31aaacb4c8058cc83f6bb208fe23f1_296_168.png", HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/07/16/514141-665121-HTV7HD.png", HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/11/wtqtxq6b_htv91c31ae9b841d2d5d04a12c441482b9bfb_296_168.png", HTV9
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/07/16/628143-665121-HTV9HD.png", HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/20/6740t6rc_htv-the-thao-new3e316c51be4893baa9e101db29bed0d4_296_168.png", HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/07/16/546898-111250-HTVTT.png", HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/kzkbf3xc_htvcthuanviethd_296_168.png", HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
