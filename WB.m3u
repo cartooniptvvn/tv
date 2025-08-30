@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Cartoon Network Việt Nam
+https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
+#EXTINF:-1,Cartoonito Việt Nam
+https://hls.mskycdn.online/tv/boomerang/index.m3u8
+#EXTINF:-1,HBO Việt Nam 
+https://hls.mskycdn.online/tv/hbohd/index.m3u8
+#EXTINF:-1,Cinemax Việt Nam
+https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
+#EXTINF:-1,Warner Bros TV Việt Nam 
+https://hls.mskycdn.online/tv/warnertvhd/index.m3u8
+#EXTINF:-1,Cartoon Network Mỹ 
+https://fl5.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1,Boomerang Mỹ
+https://fl5.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1,HBO Mỹ
+https://fl5.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1,Cinemax Mỹ
+https://fl5.moveonjoy.com/CINEMAX/index.m3u8
