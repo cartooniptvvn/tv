@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Cartoon Network Việt Nam
+#EXTINF:-1 tvg-id="cn" group-title="Tại Việt Nam" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/07/16/641332-505482-HTV1.png",Cartoon Network Việt Nam 
 https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
 #EXTINF:-1,Cartoonito Việt Nam
 https://hls.mskycdn.online/tv/boomerang/index.m3u8
