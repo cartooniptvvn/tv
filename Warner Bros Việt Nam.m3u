@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml
 #EXTINF:-1 tvg-id="cn" group-title="Tại Việt Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/46/Cartoon_Network.png/revision/latest/scale-to-width-down/1000?cb=20221214045611&path-prefix=vi",Cartoon Network Việt Nam 
 https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
 
