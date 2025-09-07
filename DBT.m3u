@@ -3,10 +3,10 @@
 # LINK ĐƯỢC CẮP BỞI VMT TV
 
 # ==============================================================================
-#EXTINF:-1 tvg-id="vtv1-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv1-hd/KenhCoBan",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0d/VTV1_logo_%282013-nay%29.png/revision/latest?cb=20201228131259&path-prefix=vi",VTV1 HD
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv2-hd/KenhCoBan",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/VTV2_logo_%282013-nay%29.png/revision/latest?cb=20201228131322&path-prefix=vi",VTV2 HD
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv3-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv3-hd/KenhCoBan",VTV3 HD
