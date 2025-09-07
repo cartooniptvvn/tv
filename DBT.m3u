@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,VTV1 HD
+https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTV2 HD
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+#EXTINF:-1,VTV3 HD
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1,VTV4 HD
+https:/live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1,VTV Cần Thơ HD
+https:/live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1,VTV7 HD
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTV8 HD
+https:/live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,VTV9 HD
+https:/live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u85000000.m3u8
+#EXTINF:-1,VTV5 HD
+https:/live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1,VTV5 Tây Nam Bộ HD
+https:/live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,VTV5 Tây Nguyên HD
+https:/live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
