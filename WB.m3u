@@ -18,13 +18,13 @@ https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
 https://hls.mskycdn.online/tv/warnertvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="cnusa" group-title="Tại Mỹ" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/07/16/641332-505482-HTV1.png",Cartoon Network Mỹ 
-https://fl5.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="bmusa" group-title="Tại Mỹ" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/07/16/641332-505482-HTV1.png",Boomerang Mỹ
-https://fl5.moveonjoy.com/BOOMERANG/index.m3u8
+https://fl2.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="hbousa" group-title="Tại Mỹ" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/07/16/641332-505482-HTV1.png",HBO Mỹ 
-https://fl5.moveonjoy.com/HBO/index.m3u8
+https://fl2.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="cnmusa" group-title="Tại Mỹ" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/07/16/641332-505482-HTV1.png",,Cinemax Mỹ 
-https://fl5.moveonjoy.com/CINEMAX/index.m3u8
+https://fl2.moveonjoy.com/CINEMAX/index.m3u8
