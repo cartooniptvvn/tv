@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cnusa",Cartoon Network Mỹ 
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="bmusa",Boomerang Mỹ
+https://fl2.moveonjoy.com/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="hbousa",HBO Mỹ 
+https://fl2.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="cnmusa",Cinemax Mỹ 
+https://fl2.moveonjoy.com/CINEMAX/index.m3u8
