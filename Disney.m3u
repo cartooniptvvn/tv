@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="cn" group-title="" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/07/16/641332-505482-HTV1.png",Disney Jr.
+#EXTINF:-1 tvg-id="cn" group-title="" tvg-logo="ht1g",Disney Jr.
 https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="cn" group-title="" tvg-logo="https:",Disney Channel
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="cn" group-title="" tvg-logo"",Disney XD Maybe
+http://89.187.179.148:826/1368/gXwiagaXda/1672
