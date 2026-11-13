@@ -1,4 +1,7 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib19DaGlfTWluaA%3D%3D&date=20261112&channel_id=465349"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib19DaGlfTWluaA%3D%3D&date=20261112&channel_id=465320"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib19DaGlfTWluaA%3D%3D&date=20261112&channel_id=464807"
+
 #EXTINF:-1 tvg-id="cn" group-title="" tvg-logo="ht1g",Disney Junior HD
 https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
 
