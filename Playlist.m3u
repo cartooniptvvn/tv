@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib19DaGlfTWluaA%3D%3D&date=20261112&channel_id=465038"
+---------------
+EPG - Nicktoons
+--------------------------------------------------------------------------------
+MADE BY AN IN VIETNAM - UPDATE IN FUTURE
+--------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="nickelodeon" group-title="Southeast Asia" tvg-logo="ht1g",(SEA) Nickelodeon HD
+http://103.253.74.210:7070/stream/117/index.m3u8
+
+#EXTINF:-1 tvg-id="nickjr" group-title="Southeast Asia" tvg-logo="https:",(SEA) Nick Jr. HD
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="cn" group-title="Pluto TV" tvg-logo"",(LINK 1 US) Nick Jr. Pluto TV
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+
+#EXTINF:-1 tvg-id="cn" group-title="Pluto TV" tvg-logo"",(LINK 2 CA) Nick Jr. Pluto TV
+https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+
+#EXTINF:-1 tvg-id="cn" group-title="Pluto TV" tvg-logo"",(LINK 1) Nickelodeon Pluto TV
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-id="cn" group-title="US and other" tvg-logo"",(East US) Nicktoons
+http://41.205.93.154/NICKTOONS/index.m3u8
+
